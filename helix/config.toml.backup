@@ -1,0 +1,7 @@
+theme = "everblush"
+
+[keys.normal.space.m]
+# Markdown preview in Helix split
+p = ["select_all", ":pipe-to /home/eldurvindr3/.local/bin/md-render", ":vsplit /tmp/helix-md-preview.txt"]
+f = ["select_all", ":pipe-to /home/eldurvindr3/.local/bin/md-render", ":hsplit /tmp/helix-md-preview.txt"]
+r = ["select_all", ":pipe-to /home/eldurvindr3/.local/bin/md-render", ":reload"]

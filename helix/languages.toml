@@ -1,0 +1,4 @@
+[[language]]
+name = "kotlin"
+formatter = { command = "/home/eldurvindr3/.cargo/bin/rust-kotlin-fmt" }
+auto-format = true

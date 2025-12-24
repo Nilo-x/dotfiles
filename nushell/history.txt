@@ -1,0 +1,2471 @@
+which $SHELL
+which $0
+ll
+ls
+clear
+ls
+clear
+ls
+kitty
+clear
+vim ~/.config/home-manager/home.nix 
+home-manager switch
+clear
+ll
+ls
+clear
+ls
+clear
+kitty
+ll .config/
+ls .config/
+ls .config/kitty/
+vim ~/.config/home-manager/home.nix 
+home-manager switch
+vim ~/.config/home-manager/home.nix 
+home-manager switch
+vim ~/.config/home-manager/home.nix 
+v
+vim ~/.config/home-manager/home.nix
+home-manager switch
+ll
+ls
+kitty 
+vim ~/.config/home-manager/home.nix
+ll
+kitty
+ls
+cler
+clear
+ls
+kitty
+clear
+sudo vim /etc/nixos/configuration.nix 
+reboot
+ls
+clear
+sudo vim /etc/nixos/configuration.nix 
+sudo nixos-rebuild switch 
+rm -rf ~/.config/cosmic<\n>rm -rf ~/.cache/cosmic<\n>
+ll
+clear
+nixos-option services.xserver.desktopManager
+ll .config
+ls .config/
+clear
+neofetch 
+which neofetch 
+which git
+which kitty
+clear
+neofetch 
+ll
+vim ~/.config/home-manager/home.nix
+home-manager switch
+vim ~/.config/home-manager/home.nix
+clear
+vim ~/.config/home-manager/home.nix
+home-manager switch
+ll
+clear
+ls
+clear
+ls -la
+ll
+clear
+neofetch 
+clear
+ll
+ls
+clea
+clear
+ls -a
+clear
+ls | where size > 1mb | sort-by modified
+ls
+ls -la
+ls -la | where size > 1mb | sort-by modified
+ls -la | where size > 1mb
+cd Downloads/
+ls
+ll
+ls
+ls -la
+cd ..
+cd /etc/
+ls
+ls -la
+ls -la | where size > 2kB
+ls -la | where size > 2kB | sort-by modified
+ls -la | where size > 2kB | sort-by modified asc
+ls -la | where size > 2kB | sort-by modified ascending
+ls -la | where size > 2kB | sort-by modified desc
+ls -la | where size > 2kB | sort-by accesed
+ls -la | where size > 2kB | sort-by accesxed
+ls -la | where size > 2kB | sort-by accessed
+help ls
+ls -f
+clear
+ll
+clear
+ls -la
+ls -la -f
+clear
+3 < 10
+3 = 10
+3 == 10
+3 > 10
+clear
+ls
+cd ~
+clear
+ls -f
+ll\
+cd ..
+clea
+clear
+ll
+clear
+cd ~
+clear
+ani-cli 
+bash
+clear
+l
+ll
+clear
+ls -f
+clear
+ani-cli 
+clear
+ll
+clear
+ls
+ll
+clear
+ll
+vim .
+ll
+ls
+clear
+cd ~
+cd .config/
+ls -la
+cd nushell/
+ls
+vim config.nu 
+sudo vim config.nu 
+cat config.nu 
+cd ~
+vim ~/.config/home-manager/home.nix
+clear
+home-manager switch\
+home-manager switch
+ll
+ls -l
+clear
+ll
+ls -la
+ls -l
+ll
+ani-cli 
+clea
+aclear
+clear
+ani-cli 
+clea
+ll
+vim ~/.config/home-manager/home.nix
+hx .config/home-manager/home.nix 
+home-manager switch
+hx .config/home-manager/home.nix 
+home-manager switch
+hx .config/home-manager/home.nix 
+home-manager switch
+hx .config/home-manager/home.nix 
+home-manager switch
+direnv --version
+hx .config/home-manager/home.nix 
+direnv --version
+home-manager switch
+nix-shell
+clear
+ll
+mkdir Projects
+cd Projects/
+clear
+mkdir test_project
+cd test_project/
+clear
+nix profile install nixpkgs#npins
+nix profile add nixpkgs#npins
+ani-cli 
+clear
+ll
+c;ear
+clear
+cd ~
+clear
+vim ~/.config/home-manager/home.nix
+hx ~/.config/home-manager/home.nix
+clear
+home-manager switch
+signal-desktop 
+signal-desktop --background
+ll
+clear
+hx ~/.config/home-manager/home.nix
+clear
+home-manager switch
+export NIXPKGS_ALLOW_UNFREE=1
+export $NIXPKGS_ALLOW_UNFREE=1
+$export NIXPKGS_ALLOW_UNFREE=1
+hx /etc/nixos/configuration.nix 
+clear
+nix-shell -p amp-cli
+sudo hx /etc/nix/nix.conf 
+sudo hx /etc/nixos/configuration.nix 
+sudo nixos-rebuild switch 
+sudo hx /etc/nixos/configuration.nix 
+sudo nixos-rebuild switch 
+sudo hx /etc/nixos/configuration.nix 
+sudo nixos-rebuild switch 
+hx .config/home-manager/home.nix 
+home-manager switch
+hx .config/home-manager/home.nix 
+home-manager switch
+sudo hx /etc/nixos/configuration.nix 
+sudo hx /etc/nix/nix.conf 
+neofetch 
+clear
+neofetch 
+hx .config/home-manager/home.nix 
+home-manager switch
+hx .config/home-manager/home.nix 
+home-manager switch
+clear
+amp
+clear
+amp
+ll
+cd Projects/
+ll
+clear
+mkdir amp_test_project
+cd amp_test_project/
+ll
+clear
+ll
+clearr
+clear
+amp
+clear
+amp
+ll
+hx .
+clear
+;;
+clear
+ll
+hx .
+clear
+hx .
+clear
+ll
+cd ..
+ll
+cd ..
+ll
+clear
+cd Downloads/
+ll
+clear
+mkdir rust_books
+ll
+mv the-rust-programming-language-2nbsped-1718503105-9781718503106_compress.pdf ./rust_books/
+cd rust_books/
+ll
+cd ..
+ll
+lll
+ll
+mv ./rust_books/ ./rust-books/
+ll
+cllear
+clear
+cd rust-books/
+clear
+ll
+mv the-rust-programming-language-2nbsped-1718503105-9781718503106_compress.pdf the-rust-programming-language-2nd-edition.pdf
+ll
+clear
+ll
+firefox the-rust-programming-language-2nd-edition.pdf 
+cd ll
+clear
+ani-cli 
+clear
+cd ~/.config/
+ll
+clear
+ll
+cd home-manager/
+ll
+clear
+hx .
+clear
+cd ~/.config/home-manager/
+ll
+hx home.nix 
+clear
+home-manager switch
+hx home.nix 
+clear
+hx home.nix 
+home-manager switch
+git log
+git status
+cd ..
+ll
+cd ~/.config/home-manager/
+ll
+diff deprecated-home.nix  home.nix 
+cleae
+clear
+hx .
+clear
+ll
+clear
+ll
+ls -l
+ll | order by size
+ll order by size
+ll
+clear
+cat deprecated-home.nix nushell-lists-tutorial.md 
+clear
+cat nushell-lists-tutorial.md 
+ll
+ll | where type == file
+ll | where type != file
+ll | where type == file | size > 3.5kB
+ll | where type == file and  size > 3.5kB
+ll | where type == file and size < 2B
+ll | where type == file and size < 2kB
+clear
+l
+ll
+clear
+ll
+cd /etc/
+ll
+ll | where group == shadow
+ll | where group == shadow and created < today
+ll | where group == shadow and created < datetime.now
+hx .
+cat nushell-lists-tutorial.md 
+cler
+cat nushell-lists-tutorial.md 
+ps aux | where { $it.name =~ "node" } | sort-by cpu
+clear
+ll
+ps-aux | where { $it.name =~ "node" } | sort-by cpu
+ps -aux | where { $it.name =~ "node" } | sort-by cpu
+ps -aux | where { inode.name =~ "node" } | sort-by cpu
+clear
+ll
+ps -ps aux | where { $it.name =~ "node" } | sort-by cpu<\n>aux | where { $it.name =~ "node" } | sort-by cpu
+ps
+ps --help
+ps | where { inode.name =~ "node" } | sort-by cpu
+ps | where { $it.name =~ "node" } | sort-by cpu
+ps | where name =~ "node" | sort-by cpu
+clear
+cd ~
+clear
+nix-shell -p wireguard-ui
+clear
+ll
+clear
+ll 
+clear
+ll
+clear
+ll
+cd Downloads/
+ll
+clear
+./rust-books/the-rust-programming-language-2nd-edition.pdf
+firefox the-rust-programming-language-2nd-edition.pdf 
+cd rust-books/
+firefox the-rust-programming-language-2nd-edition.pdf 
+clear
+cd ..
+clear
+cd ..
+clear
+cd ~
+clear
+home-manager switch
+clear
+pdf-library
+amp
+clear
+ll
+clear
+ll
+ls
+pdf-library
+ll
+home-manager switch
+ll
+all
+ls
+ls 0l
+ls -l
+ls -la
+cd ~/.config/home-manager/
+ll
+clear
+hx .
+pdftexi2dvi 
+pdflibrary
+pdf-library
+pdf-library "ds"
+clear
+home-manager switch
+pdf-library
+ll
+clear
+hx .
+ll
+clear
+pdf-library
+ll
+clear
+ll
+ll -la
+home-manager switch
+ll
+clear
+ll
+nushell
+ls
+ls 0la
+ls -la
+hx .
+cd ~/.config/home-manager/
+hx .
+home-manager switch
+ll
+clear
+ll
+ll
+clear
+ll
+clear
+ll
+clear
+cd ~/.config/home-manager/
+ll
+rm deprecated-home.nix nushell-lists-tutorial.md
+clear
+ll
+clear
+cd ..
+cd ~
+clear
+neofetch 
+hx ~/.config/home-manager/home.nix
+home-manager switch
+fzf
+clear
+fzf ./
+fzf ~
+fzf --help
+ll fzf
+fzf | ll
+clear
+ls -la | fzf
+clear
+find ~ -type f | fzf
+find . -type f | fzf
+find .
+find
+find ~/ -type d | fzf
+find ~/ -type d
+find ~/
+find ~/ type -f
+find
+find --help
+clear
+find --help
+man find
+clear
+find "*.nix"
+find ~ "*.nix"
+find ~/ "*.nix"
+find ~/ "*.nix" | fzf
+fd
+clear
+fd . ~ | fzf<\n>
+find . ~ | fzf<\n>
+clear
+^find . ~ | ^fzf<\n>
+clear
+ls ~/** | get name | fzf^
+ls ~/** | get name | fzf
+ls ~/** -type f | get name | fzf
+ls ~/** | get name | fzf
+cd Projects/
+clear
+claude
+clear
+gx ~/.config/home-manager/home.nix
+hx ~/.config/home-manager/home.nix
+home-manager switch
+ll
+clear
+ll
+clear
+neofetch 
+clear
+cd Projects/
+ll
+clear
+ll
+mkdir claude_test_project
+cd claude_test_project/
+clear
+ll
+mv book-opener.nu ~/.config/home-manager/
+ll
+cd ~/.config/home-manager/
+ll
+hx .
+home-manager switch
+book-opener
+cd ~
+mkdir Library
+ll
+ls
+cp ~/Downloads/rust-books/the-rust-programming-language-2nd-edition.pdf ~/Library/
+ll Library/
+cd ~/Downloads/rust-books/
+ll
+mv the-rust-programming-language-2nd-edition.pdf the-rust-programming-language-2nd-edition-copy.pdf
+ll
+cd ..
+clear
+book-opener
+source nushell
+source ~/.config/nushell/config.nu
+hx ~/.config
+ll
+cd ~/.config/home-manager/
+ll
+mv book-opener.nu ~/.config/nushell
+ll
+ll ~/.config/nushell/
+ll
+cd ~/.config/nushell/
+ll
+hx .
+pwd
+hx ~/.config/home-manager/home.nix
+clear
+cd ..
+clear
+cd ~
+clear
+source ~/.config/nushell/config.nu
+hx ~/.config/nushell/
+sudo hx ~/.config/nushell/
+ll
+ll ~/.config/nushell/
+sudo hx ~/.config/nushell/clear
+ll
+ll order by created
+ll | order by size
+ll order by size
+ll | order by size
+nushell help
+clear
+hx ~/.config/home-manager/home.nix
+home-manager switch
+source ~/.config/nushell/config.nu
+book-opener 
+book-opener
+ll
+ll ~/Library/
+book-opener
+source ~/.config/nushell/config.nu
+clear
+book-opener
+book-opener --all
+home-manager switch
+source ~/.config/nushell/config.nu
+book-opener --all
+book-opener
+hx ~/.config/nushell/
+book-opener
+book-opener 
+book-opener -all
+book-opener
+book-opener --all
+ll
+clear
+ls
+ls Documents/
+ls Pictures/
+ls Pictures/Screenshots/
+hx Pictures/
+firefox ./Pictures/Screenshots/*
+source ~/.config/nushell/config.nu
+book-opener 
+claude
+book-opener 
+ll ~/Library/
+book-opener --all
+hx ~/.config/nushell/
+cd ./Library/
+ls | get name
+claude
+cd ~/.config/nushell/
+clear
+source ~/.config/nushell/config.nu
+book-opener 
+book-opener --all
+hx .
+clear
+cd ~
+clear
+book-opener
+source ~/.config/nushell/config.nu
+book-opener
+hx ~/.config/nushell/
+book-opener
+source ~/.config/nushell/config.nu
+book-opener
+book-opener --all
+source ~/.config/nushell/config.nu
+book-opener --all
+book-opener
+source ~/.config/nushell/config.nu
+book-opener
+book-opener 
+home-manager switch
+claude
+book-opener 
+book-opener --all
+hx ~/.config/nushell/
+clear
+ll
+clear
+ll
+clear
+ls
+clear
+hx ~/.config/nushell/
+clear
+book-opener 
+clear
+book-opener --all
+clear
+cd ~/.config/
+ll
+clear
+cd nushell/
+clear
+claude
+claude-code --usage
+claude --usage
+claude --help
+claude
+clear
+hx ~/.config/home-manager/home.nix 
+clear
+claude
+clear
+ll
+clear
+ll
+CLEAR
+cd ~
+clear
+book-opener 
+ll
+hx ~/.config/nushell/
+clear
+ll
+ll | order by size
+ll | type == dir
+ll | where type == dir
+ll
+ll | where size > 10kB
+ll | where size > 10kB sort by size
+ll | where size > 10kB | sort by size
+ll | where size > 10kB | sort-by size
+ll | where size > 10kB | sort-by size -r
+ll | where size > 5kB | sort-by size -r
+ll | where size < 5kB | sort-by size -r
+ll | where size < 5kB | sort-by size
+ll | where size < 5kB | sort-by created
+ll | where size < 5kB | sort-by created -r
+ll db/
+ll db/clients/
+ll db/users/
+hx ./db/
+clear
+ll
+clear
+l
+ls
+clear
+ls -a
+ll
+clear
+ll
+hx ~/.config/home-manager/
+home-manager switch
+clear
+ani-cli 
+clear
+fzf | ll ~
+c
+ll
+clear
+ll
+ll
+clear
+cd 
+clear
+claude
+clear
+ani-cli 
+ll
+clear
+vim ~/.config/home-manager/home.nix
+hx ~/.config/home-manager/
+home-manager switch
+ll
+neofetch 
+cd Projects/
+ll
+mkdir notification_my_ass
+cd notification_my_ass/
+ll
+clear
+ll
+clear
+ani-cli 
+clear
+adb
+which adb
+cd ..
+cd notification_my_ass/
+ll
+clear
+l
+adb
+hx ~/.config/home-manager/
+home-manager switch
+adb
+which adb
+adb server
+adb devices
+ll
+adb devices
+adb server
+adb devices
+adb restart
+adb stop
+adb
+adb kill-server
+adb start-server
+adb server
+adb devices
+clear
+clear
+pwd
+cd Projects/
+ll
+cd notification_my_ass/
+ll
+java --vertsion
+java --version
+clear
+./gradlew build
+ll
+hx .
+hx ARCHITECTURE.md 
+clear
+adb devices
+adb server
+adb devices
+adb server-kill
+adb kill-server \
+adb server
+adb kill-server
+adb
+adb kill-server
+adb server
+adb devices
+adb scan
+adb kill-server
+adb server
+adb devices
+firefox fsm.md 
+claude
+adb devices
+adb kill-server
+adb server
+adb devices
+ll
+clear
+git status
+git init
+git status
+git log
+git add ,
+git add .
+git status
+ll
+hx .gitignore 
+git status
+git add .
+git status
+git commit -m"push of playground project to prototype notifications"
+git config --global user.email "jan.horak@tutanota.com"
+hx ~/.config/home-manager/
+home-manager switch
+git commit -m"push of playground project to prototype notifications"
+git push
+git push https://github.com/Nilo-x/android-systemlvl-notifications.git
+git push --set-upstream https://github.com/Nilo-x/android-systemlvl-notifications.git
+git push --set-upstream https://github.com/Nilo-x/android-systemlvl-notifications.git master
+ssh-keygen -t ed25519 -C "jan.horak@tutanota.com"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub 
+ssh -T Nilo-x@github.com
+git push --set-upstream https://github.com/Nilo-x/android-systemlvl-notifications.git master
+git remote set-url origin git@github.com:Nilo-x/android-systemlvl-notifications.git
+git remote set-url master git@github.com:Nilo-x/android-systemlvl-notifications.git
+git remote set-url main git@github.com:Nilo-x/android-systemlvl-notifications.git
+git remote add origin git@github.com:Nilo-x/android-systemlvl-notifications.git
+git remote set-url origin git@github.com:Nilo-x/android-systemlvl-notifications.git
+git push
+git push --set-upstream origin master
+git push --set-upstream origin main
+git branch -m master main<\n>git push -u origin main<\n>git push origin --delete master
+git push --force-with-lease 
+git push HEAD --force-with-lease 
+git branch -vvv
+git branch -m master main
+git branch
+git push -u origin main
+git push -u origin main --force
+amp
+claude
+quit
+exit
+ll
+ls
+ls | where size > 1mb | sort-by modified
+cd /etc/
+ls | where size > 1mb | sort-by modified
+ls
+ls | where size > <.5kb | sort-by modified
+ls | where size < 0.5kb | sort-by modified
+clear
+cd ~
+clear
+book-opener 
+book-opener -all
+book-opener all
+book-opener -all
+book-opener --global
+hx ~/.config/home-manager/
+hx ~/.config/nushell/book-opener.nu 
+book-opener --all
+clear
+book-opener --all
+hx ~/.config/home-manager/
+clear
+ll
+cd ~
+ll
+cd .ssh/
+ll
+cat id_ed25519 
+systemctl status networkmanager
+systemctl status NetworkManager
+cd ~
+cd wireguard/
+ll
+clear
+ll
+nmcli connection import type wireguard file wg0_11.conf
+nmtui
+ping 10.200.200.1
+ping 10.200.200.3
+nmtui
+nmcli
+cd ..
+ll
+ls
+ll
+ls | where edited > 10
+ls | where edited > 10d
+ls | where edited > today
+ls | where created != todat
+ls | where created != today
+ls | sort-by created
+ll
+clear
+nmcli
+ping 10.200.200.3
+ls
+ls -la
+ls -l
+clear
+ls -l
+ls -l | sort-by accessed
+ls -l | sort-by accessed -r 
+hx ~/.config/home-manager/
+ll
+cd ~
+ll
+cd Projects/
+ll
+cd notification_my_ass/
+ll
+clear
+git log --oneline --graph --all 
+hx .
+clear
+ll
+nmcli
+nmtui
+ll
+which adb\
+which adb
+hx ~/.config/home-manager/
+home-manager switch
+ll
+clear
+dc Projects/notification_my_ass/
+ll
+clear
+ll
+cd Projects/notification_my_ass/
+ll
+clear
+ll
+hx .
+hx health
+hx --health
+hx --health | grep "kollin"
+hx --health | grep "kotlin"
+hx ~/.config/home-manager/
+home-manager switch
+hx .
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+clear
+ll
+hx .
+ll
+clear
+ll
+hx .
+hx --health | grep "kotlin"
+ll
+cd ..
+clear
+mkdir rust-kotlin-fmt
+cd rust-kotlin-fmt/
+ll
+clear
+npins init
+hx ~/.config/home-manager/
+home-manager switch
+npins
+npins init
+hx ~/.config/home-manager/
+home-manager switch
+npins init
+ll
+hx .
+npins add oxalica
+npins add --help
+npins add github oxalica rust-overlay
+touch .envrc
+direnv allow
+touch .envrc
+ls
+ll
+hx .envrc 
+cd ..
+cd rust-kotlin-fmt/
+direnv allow
+cd ..c
+cd ..
+clear
+cd rust-kotlin-fmt/
+ll
+touch shell.nix
+hx shell.nix 
+cd ..
+cd rust-kotlin-fmt/
+hx .
+ll
+hx .
+which hx
+which cargo
+ll
+hx .
+npins add github oxalica rust-overlay
+npins add github oxalica rust-overlay --branch master
+npins remove rust-overlay
+npins add github oxalica rust-overlay --branch stable
+cd ..
+cd rust-kotlin-fmt/
+ll
+hx .
+cd ..
+cd rust-kotlin-fmt/
+hx .
+cat npins/sources.json 
+hx .
+clear
+which cargo
+which hx
+which clippy
+which rustc
+which rust-analyer
+which hx
+which cargo
+which cargo hx
+clear
+which cargo hx
+which rust-analyer
+hx .
+which cargo hx
+cd ..
+cd rust-kotlin-fmt/
+which cargo hx
+ll
+hx shell.nix 
+ll
+hx .
+which cargo
+which cargo hx
+which cargo hx rustc
+which cargo hx rust-analyzer 
+ll
+clear
+hx .
+ll
+clear
+ll
+claude
+clear
+cargo init
+ll
+ll ./src/
+hx .
+cargo run
+clear
+cargo run
+cargo build
+./target/debug/rust-kotlin-fmt
+cargo run
+ll
+hx .
+ll
+clear
+ll
+cat test_input.kt 
+cargo run -i test_input.kt
+./target/debug/rust-kotlin-fmt -i test_input.kt
+cargo run
+cargo build
+./target/debug/rust-kotlin-fmt -i test_input.kt
+cat test_input.kt 
+hx .
+cat test_input.kt | ./target/release/rust-kotlin-fmt
+cat test_input.kt 
+hx .
+clear
+hx .
+clear
+hx /tmp/test.kt 
+cat /tmp/test.kt 
+hx .
+ll
+hx .
+hx example.kt 
+ll
+hx test_input.kt 
+hx .
+clear
+hx .
+hx --health | grep "rust"
+hx .
+ll
+clear
+ll
+ll /tmp | grep .kt
+ll /tmp
+/tmp/compare.sh
+hx /tmp/
+clear
+hx .
+hx ~/.config/helix/
+cd ~/.config/
+ll
+clear
+cd helix/
+ll
+touch config.toml
+ll
+hx config.toml 
+cd ..
+clear
+cd ..
+ll
+clear
+cd Projects/rust-kotlin-fmt/
+ll
+clear
+ll
+touch random.cs
+hx random.cs 
+rm random.cs\
+rm random.cs
+ll
+clear
+ll
+hx .\
+hx .
+clear
+hx /tmp/*.kt
+hx /tmp/
+clear
+ll
+cd ..
+ll
+cd notification_my_ass/
+ll
+clear
+hx .
+ll
+cd app/src/main/
+ll
+cd java/com/example/
+ll
+cd notification_playground/
+ll
+clea
+clear
+hx .
+ll
+clear
+hx .
+which ktlint
+hx .
+ll
+clear
+ktlint -F MainActivity.kt
+hx MainActivity.kt 
+ktlint -F MainActivity.kt
+hx MainActivity.kt 
+clear
+cd ~/Downloads/
+ll
+cd movies/
+l
+ll
+cd 'Silicon Valley S01 1080p BluRay x264-ROVERS [RiCK]/'
+ll
+mpv Silicon.Valley.S01E01.1080p.BluRay.x264-ROVERS.mkv 
+mvp Silicon.Valley.S01E01.1080p.BluRay.x264-ROVERS.mkv 
+mpv
+mv
+hx ~/.config/home-manager/
+home-manager switch
+mpv Silicon.Valley.S01E01.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E02.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E03.1080p.BluRay.x264-ROVERS.mkv 
+hx ~/.config/home-manager/
+home-manager switch
+sudo update-icon-caches /usr/share/icons/*
+xdg-desktop-menu forceupdate
+sudo hx /etc/nix/nix.conf 
+sudo hx /etc/nixos/configuration.nix 
+sudo nixos-rebuild switch 
+echo $XDG_SESSION_TYPE
+echo $env,XDG_SESSION_TYPE
+echo $env.XDG_SESSION_TYPE
+sudo hx /etc/nixos/configuration.nix 
+hx ~/.config/home-manager/
+home-manager switch
+sudo nixos-rebuild switch 
+hx ~/.config/home-manager/
+home-manager switch
+ghostty
+hx ~/.config/home-manager/
+home-manager switch
+ghostty
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+clear
+ll
+ls
+ll
+clear
+ll
+clear
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+signal-desktop --background --password-store="gnome-libsecret"
+nohup signal-desktop & --background --password-store="gnome-libsecret"
+nohup signal-desktop --background --password-store="gnome-libsecret" &
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+home-manager switchclear
+ll
+clear
+ls
+hx ~/.config/home-manager/
+home-manager switchclear
+home-manager switch
+home-manager switchclear
+clear
+hx ~/.config/home-manager/
+clear
+home-manager switch
+ll
+clear
+hx ~/.config/home-manager/
+home-manager switch
+ll
+clear
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+clear
+cd Projects/rust-kotlin-fmt/
+ll
+clear
+ll
+pwd
+clea
+clear
+ll
+hx shell.nix
+clear
+ll
+clear
+ls
+hx ~/Downloads/
+clear
+ll
+hx ~/.config/home-manager/
+home-manager switch
+az login
+cd ~
+clear
+az --help
+claude
+clear
+ll ~/.ssh/
+ls ~/.ssh/
+clear
+ssh key-gen -t ed25519 -C "jan.horak@tutanota.com"
+ssh-keygen -t ed25519 -C "jan.horak@tutanota.com"
+ll
+cler
+clear
+ll
+clear
+ls
+clear
+ssh EldurVindr3@108.143.88.113
+ssh azureuser@108.143.88.113
+claude
+cd Projects/rust-kotlin-fmt/
+ll
+clear
+ls
+lll
+ll
+hx ~
+cd ~/.config/
+hx .
+clear
+clear
+hx .
+hx /etc/nixos/configuration.nix 
+ssh azureuser@108.143.88.113
+clear
+ssh azureuser@108.143.88.113
+clear
+ssh azureuser@108.143.88.113
+clear
+hx .
+clear
+cd ~/Projects/
+ll
+cd rust-kotlin-fmt/
+clear
+ll
+hx .
+which hx
+claude
+clear
+hx ~/.config/home-manager/home.nix 
+home
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+clear
+fc list -fv
+fclist -fv
+fc-list | grep -i nerd
+hx ~/.config/
+hx ~/.config/ghostty/
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+claude
+home-manager switch
+rm ~/.config/ghostty/config
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+clear
+which ghostty 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+ll
+clear
+hx ~/.config/ghostty/
+ll
+clear
+ls
+cd ~
+hx .
+clear
+which hx
+clear
+ll
+cd Projects/rust-kotlin-fmt/
+ll
+clear
+cd Projects/rust-kotlin-fmt/
+ll
+clear
+ls
+clear
+claude --resume
+clear
+cd Projects/rust-kotlin-fmt/
+dc Projects/notification_my_ass/
+cd Projects/rust-kotlin-fmt/
+clear
+neofetch 
+clear
+neofetch 
+htop
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+htop
+clear
+nmcli
+nmtui
+ll
+nmtui
+clear
+neofetch 
+cd ~
+clear
+home-manager options ghostty
+home-manager options editor
+home-manager --help
+:q
+home-manager --options
+home-manager options
+home-manager option
+home-manager option programs.ghostty
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+neofetch 
+hx ~/.config/ghostty/
+ghostty +list-themes
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+htop
+killall ghostty
+kill-all ghostty
+cat ~/.config/ghostty/config 
+hx ~/.config/home-manager/home.nix 
+claude --resume
+ll
+clear
+ll
+neofetch 
+clear
+hx ~/.config/home-manager/home.nix 
+ll
+cd Projects/rust-kotlin-fmt/
+clear
+ll
+ghostty +list-themes
+:q
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+ll
+ls
+clear
+server -antigravity-login
+touch config.yaml
+server -antigravity-login
+ll
+clear
+ls
+cat config.yaml 
+claude
+clear
+clear
+claude
+clear
+hyprpaper
+opencode auth login
+cd Downloads/
+ll
+cd ~
+clear
+ll
+cd Downloads/
+ll
+clear
+ll
+mp wallpaper.jpeg ~/.config/home-manager/
+mv wallpaper.jpeg ~/.config/home-manager/
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+home-manager option programs.hyprland
+hx ~/.config/home-manager/home.nix 
+hx /etc/nixos/configuration.nix 
+sudo hx /etc/nixos/configuration.nix 
+sudo nixos-rebuild switch 
+hyprctl monitor
+hyprctl monitors
+hx ~/.config/home-manager/home.nix 
+home-manager s
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hyprctl reload
+hyprctl refresh
+hyprctl help
+hyprctl --help
+hyprctl reload
+claude --resume
+flameshot gui
+flameshot
+opencode
+clear
+python -v
+claude --resume
+clear
+opencode
+amp
+server
+server --help
+server -antigravity-login
+amp
+server
+server --config ~/.config/cliproxyapi/config.yaml
+amp
+server --help
+amp
+server
+server --config ~/.config/cliproxyapi/config.yaml
+amp
+server -login
+amp
+amp config list
+server --config /home/eldurvindr3/.config/cliproxyapi/config.yaml &
+amp --help
+clear
+server -login-antigravity
+server -antigravity-login
+amp
+hx ~/.config/home-manager/home.nix 
+ll ~/.config/home-manager/
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+logout
+hyprctl logout
+hyprctl dispatch exit
+ll
+clear
+hx /etc/nixos/configuration.nix 
+hx ~/.config/home-manager/home.nix 
+hx ~/.config/hypr/hyprland.conf 
+rm ~/.config/hypr/hyprland.conf
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hyprctl reload
+hyprpaper
+hyprpaper --help
+exit
+hx ~/.config/home-manager/home.nix 
+hyprctl dispatch exit
+hx ~/.config/hypr/
+whoami
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hyprctl reload
+systemctl --user restart hyprpaper<\n>
+systemctl --user status hyprpaper<\n>
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+clear
+claude
+clear
+clear
+mv ~/Downloads/walpaper-2.jpg ~/.config/home-manager/
+ll ~/.config/home-manager/
+hx ~/.config/home-manager/home.nix 
+hyprctl reload
+hyprctl dispatch exit
+home-manager switch
+hyprctl reload
+hx ~/.config/home-manager/home.nix 
+hyprctl reload
+hyprctl dispatch exit
+home-manager switch
+hx ~/.config/hypr/hyprland.conf 
+ll ~/.config/home-manager/
+mv ~/.config/home-manager/walpaper-2.jpg ~/.config/home-manager/wallpaper-2.jpg
+home-manager switch
+hyprctl dispatch exit
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+amp
+clear
+dneof
+neofetch 
+cd Downloads/
+cd movies/
+ll
+cd 'Silicon Valley S01 1080p BluRay x264-ROVERS [RiCK]/'
+ll
+mpv Silicon.Valley.S01E03.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E03.1080p.BluRay.x264-ROVERS.mkv Silicon.Valley.S01E04.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E03.1080p.BluRay.x264-ROVERS.mkv Silicon.Valley.S01E04.1080p.BluRay.x264-ROVERS.mkv Silicon.Valley.S01E04.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E03.1080p.BluRay.x264-ROVERS.mkv Silicon.Valley.S01E04.1080p.BluRay.x264-ROVERS.mkv Silicon.Valley.S01E04.1080p.BluRay.x264-ROVERS.mkv Silicon.Valley.S01E05.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E04.1080p.BluRay.x264-ROVERS.mkv Silicon.Valley.S01E05.1080p.BluRay.x264-ROVERS.mkv
+mpv Silicon.Valley.S01E04.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E03.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E04.1080p.BluRay.x264-ROVERS.mkv 
+ll
+clea
+book-opener --all
+cd ~
+clear
+hx /etc/nixos/configuration.nix 
+clear
+claude
+home-manager switch
+cd ~
+clear
+hx .config/home-manager/home.nix \
+claude 
+ll
+home-manager switch
+hx .config/home-manager/home.nix
+clear
+hx .config/home-manager/home.nix
+home-manager switch
+hx .config/home-manager/home.nix
+home-manager switch
+hx .config/home-manager/
+clear
+home-manager switch
+cd ~
+hx ~/.config/home-manager/home.nix 
+hx ~/.config/home-manager/
+cd .config/home-manager/
+ll
+clear
+ls
+ls -a
+ls -la
+clear
+ll
+cd modules/
+ll
+cd ..
+ll
+ll packages/
+ll modules/
+ll modules/programs/
+cd modules/programs/
+touch flameshot.nix
+hx .
+home-manager switch
+flameshot gui
+flameshot gui
+hx .
+hx ../.
+hx ~/.config/home-manager/
+hx .
+home-manager switch
+flameshot gui
+claude
+home-manager switch
+ll
+clear
+ls
+ll
+cd .config/home-manager/
+ll
+clear
+ls
+ll
+clear
+ll
+cd packages/l
+cd packages/
+ll
+cd ..
+clear
+ll
+cd ..
+ll
+cd home-manager/
+ll
+clear
+hx .
+cd ..
+ll
+hx .
+ll
+cd home-manager/
+hx .
+:
+clear
+hx .
+hx /etc/nixos/configuration.nix 
+cd ~
+clear
+hx /etc/nixos/configuration.nix 
+cd ~
+clear
+sudo cp /etc/nixos/configuration.nix /etc/nixos/configuration.nix.backup
+sudo cp ~/.config/home-manager/configuration.nix.cleaned /etc/nixos/configuration.nix
+sudo nixos-rebuild test
+sudo nixos-rebuild switch
+home-manager switch
+hx /etc/nixos/configuration.nix 
+clear
+hx ~/.config/home-manager/
+cd ~/.config/home-manager/
+ll
+clear
+ls
+rm ./configuration.nix.cleaned
+ll
+clear
+ls
+claude
+clear
+cd ..
+cd ~
+ll
+python -v
+python --version
+ll
+dc /etc
+cd /etc/
+ll
+cd /tmp/
+cd ~
+ll
+clear
+ll
+rm -rf hello.py
+ll
+clear
+ll
+clear
+neofetch 
+exit
+ll
+clear
+ls
+clear
+ll
+clear
+ls
+exit
+clear
+neofetch 
+ls -la | sort-by modified
+ls -la | sort-by modified -r
+clear
+cd Projects/rust-kotlin-fmt/
+ll
+clear
+ll
+clear
+hx .
+clear
+ll
+clear
+ll
+cd ..
+ll
+mkdir information-overlay
+cd information-overlay/
+ll
+clear
+ll
+clear
+ls
+cargo run
+hx .
+cargo run
+clear
+cargo build
+cargo run
+hx .
+clear
+hx ~/.config/home-manager/
+home
+home-manager switch
+cd ~/
+ll
+clear
+ls
+mv ./Projects/ ./projects/
+ls
+cd projects/
+ll
+cd information-overlay/
+ll
+clear
+ls
+cd ..
+cd information-overlay/
+direnv allow
+clear
+hx .
+cargo run
+hx .
+cargo run
+claude
+ll
+clear
+cd ..
+ll
+clear
+ll
+cd information-overlay/
+ll
+ls
+cd ..
+cd ~
+clear
+claude
+clear
+hx ~/.config/home-manager/modules/programs/ghostty.nix 
+home-manager switch
+ll
+clear
+ll
+ls
+clear
+ls
+ll
+neofetch 
+hx ~/.config/home-manager/modules/programs/ghostty.nix 
+home-manager switch
+ll
+clar
+ll
+ls
+book-opener 
+ani-cli 
+neofetch 
+clear
+htop
+clear
+hx ~/.config/home-manager/modules/programs/nushell.nix 
+home-manager switch
+home-manager option programs.nushell
+hx ~/.config/home-manager/modules/programs/nushell.nix 
+home-manager option programs.nushell
+home-manager option programs.nushell.config
+hx ~/.config/home-manager/modules/programs/nushell.nix 
+home-manager option programs.nushell.config
+hx ~/.config/home-manager/modules/programs/nushell.nix 
+home-manager option programs.nushell.config
+hx ~/.config/home-manager/modules/programs/nushell.nix 
+home-manager option programs.nushell.config
+home-manager option programs.nushell
+claude
+home-manager option programs.nushell
+home-manager switch
+,,
+ll
+neofetch 
+book-opener 
+cd Projects/
+ll
+ll ./information-overlay/
+cd ..
+ll
+clear
+ls
+rm -rf ./Projects/
+ls
+clear
+cd projects/
+ll
+clear
+ll
+cd information-overlay/
+cargo run
+hx .
+clear
+cd .
+cd ..
+clear
+ll
+mkdir medi-track
+cd medi-track/
+ll
+clear
+cd ..
+clear
+ll
+ls
+ll
+ls
+cd medi-track/
+ls
+clear
+ls
+which adb
+cd ~
+which adb 
+cd ~/projects/medi-track/
+ll
+clear
+ls
+hx .
+adb devices
+adb install
+adb install 10AF2U1KA30020E
+htop
+./gradlew installDebug
+./configure-gradle.sh
+nix-shell
+export NIXPKGS_ACCEPT_ANDROID_SDK_LICENSE=1
+$ export NIXPKGS_ACCEPT_ANDROID_SDK_LICENSE=1export NIXPKGS_ACCEPT_ANDROID_SDK_LICENSE=1
+nix-shell
+cd ..
+cd medi-track/
+nix-shell
+claude
+hyprctl dispatch exit
+ll
+cldar
+cd Downloads/movies/
+\ll
+ll
+cd 'Silicon Valley S01 1080p BluRay x264-ROVERS [RiCK]/'
+ll
+mpv Silicon.Valley.S01E05.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E04.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E05.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E06.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E07.1080p.BluRay.x264-ROVERS.mkv 
+mpv Silicon.Valley.S01E08.1080p.BluRay.x264-ROVERS.mkv 
+ll
+cd projects/
+ll
+clear
+ll
+hx ~/.config/
+hx ~/.config/home-manager/
+cd ~
+ll
+clear
+cd .config/
+cd home-manager/
+ll
+clear
+claude
+opencode
+server -antigravity-login
+ll
+ll ~/.
+cd ~
+server -antigravity-login
+cd ~/.config/home-manager/
+opencode 
+cd ~
+ll
+ll ~/.config/home-manager/
+hx ~/.config/home-manager/
+cd ~
+clear
+home-manager switch
+npx --v
+ll
+clear
+npx @mariozechner/pi-coding-agent
+server --status
+server --help
+ll
+clear
+hx ~/.config/home-manager/
+home-manager switch
+pi
+ll
+hx ~/.config/home-manager/
+home-manager switch
+pi
+home-manager switch
+hx ~/.config/home-manager/
+cd ~.
+cd ~/.config/home-manager/
+ll
+clear
+ls
+rm README.md
+ll
+clear
+hx ~/.config/home-manager/
+clear
+ll
+clear
+cd projects/
+ll
+cd information-overlay/
+clear
+cargo run
+cd ..
+ll
+cd notification_my_ass/
+ll
+cler
+clear
+hx .
+cd ..
+ll
+cd information-overlay/
+clear
+ll
+cd ..
+ll
+clear
+ll
+cd ~
+clear
+pi
+pi --resume
+clear
+cd ~/projects/
+ll
+mkdir tauri-frontend
+dc tauri-frontend/
+cd tauri-frontend/
+clear
+ll
+ls
+ll
+clear
+ll
+clear
+cd projects/tauri-frontend/
+ll
+clear
+ll
+pi --help
+cd ..
+cd ~
+pi --continue
+ll
+hx .
+firefox README.md 
+hx .
+hx .envrc 
+hx .
+cd ..
+cd tauri-frontend/
+pnpm install
+pnpm tauri dev
+pi
+hx .
+ll
+ls -la
+hx .
+tree
+ll ./npins/
+ll ./node_modules/
+ll ./node_modules/typescript
+ll ./node_modules/typescript/bin/
+ll ./node_modules/typescript/bin/tsserver
+ll
+hx ./npins/
+clear
+pi --continue
+pnpm tauri dev
+pi --continue
+hx .
+clear
+ll
+hx pnpm-lock.yaml 
+clear
+ll
+hx . *.rs
+pi --continue
+pnpm tauri android init
+pnpm tauri android build
+pi --continue
+cd Downloads/
+ll
+cd Downloads/
+ll
+cd movies/
+ll
+clear
+ll
+cd 'Silicon Valley S01 1080p BluRay x264-ROVERS [RiCK]/'
+ll
+ani-cli 
+hx ~/.config/home-manager/
+cd ~/.config/home-manager/
+cat home.nix 
+hx /etc/nixos/configuration.nix 
+cd ~/.config/home-manager/
+hx .
+cd ~/.config/home-manager/\
+hx .
+clear
+nix-channel --update
+home-manager switch
+home-manager news
+clear
+ll
+clear
+ls
+clear
+ll
+ls
+clear
+ls
+neofetch 
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+cd projects/rust-kotlin-fmt/
+direnv allow
+ll
+hx .
+ll
+clear
+ll
+hx README.md 
+clear
+hx README.md 
+hx .
+hx ~/.config/home-manager/
+hx README.md 
+clear
+pi
+hx README.md 
+clear
+ll
+cd projects/rust-kotlin-fmt/
+clear
+ll
+cd projects/rust-kotlin-fmt/
+ll
+clear
+hx README.md 
+clear
+hx README.md 
+clear
+hx README.md 
+clear
+pi --continue
+clear
+ll
+clear
+hx README.md 
+hx ~/.config/home-manager/
+home-manager news
+home-manager switch
+ilyne README.md
+ilyne
+inlyne
+clear
+cd projects/rust-kotlin-fmt/
+inlyne README.md
+inlyne view README.md --theme dark/light
+inlyne view README.md --theme dark
+inlyne view README.md
+inlyne view README.md &
+inlyne view README.md -- --background
+inlyne view README.md -- &
+inlyne & view README.md
+hx ~/.config/home-manager/
+hx .
+hx ~/.config/helix/
+cd ~/.config/helix/
+ll
+cat config.toml 
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+home-manager switch
+hx ~/.config/home-manager/
+nix-env -q | grep helix<\n>
+nix-env -q<\n>
+nix-env -e helix-25.07.1
+home-manager switch --rebuild-all<\n>
+home-manager switch --rebuild-all
+home-manager switch --help
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+home-manager switch -b backup
+home-manager switch --help
+hx ~/.config/home-manager/home.nix 
+rm -rf ~/.config/helix/config.toml
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+hx .
+cat config.toml.backup 
+cat config.toml
+hx ~/.config/home-manager/home.nix 
+home-manager switch
+cd ..
+cd home-manager/
+ll
+catls
+clear
+ls
+cat home.nix 
+home-manager switch
+hx .
+ll
+cd ~/projects/rust-kotlin-fmt/
+ll
+hx .
+clea
+clear
+ll ~/.local/bin/ | grep "lyne"
+ll ~/.local/bin/
+hx ~/.local/bin/
+opencode 
+hx .
+hx ~/.local/bin/
+cat ~/.local/bin/md-preview 
+cat ~/.local/bin/md-render 
+hx ~/.config/home-manager/home.nix 
+cat home.nix 
+cat ~/.config/ghostty/config 
+cat ~/.config/home-manager/home.nix 
+:q
+home-manager switch
+clear
+hx ~/.config/home-manager/home.nix 
+hx ~/projects/rust-kotlin-fmt/
+clear
+home-manager switch
+hx ~/.local/bin/
+clear
+hx ~/projects/rust-kotlin-fmt/
+clear
+hx ~/.local/bin/
+cd ~/.local/bin/
+ll
+cat md-preview-stdin 
+hx ~/.local/bin/
+hx ~/projects/rust-kotlin-fmt/
+clear
+home-manager switch
+hx ~/.config/home-manager/home.nix 
+cd ~/.config/helix/
+cd ..
+cd home-manager/
+ll
+clear
+cat home.nix 
+hx ~/projects/rust-kotlin-fmt/
+hx ~/.local/bin/
+clear
+pwd
+cd projects/amp_test_project/
+cd ..
+cd rust-kotlin-fmt/
+ll
+hx README.md 
+home-manager switch
+hx README.md 
+clear
+openc
+opencode
+claude
+amp
+amp\
+amp
+claude
+clear
+amp
+hx ~
+hx ~/.config/amp/
+amp
+hx ~/.config/amp/
+amp
+cd
+ll
+clear
+ll ~/.local/bin/
+hx .
+clear
+home-manager switch
+cd ~/projects/rust-kotlin-fmt/
+hx README.md 
+clear
+hx README.md 
+hx ~/.local/
+hx README.md 
+clear
+hx README.md 
+home-manager switch
+hx README.md 
+clear
+hx README.md 
+clear
+hx README.md 
+clear
+hx README.md 
+cler
+home-manager switch
+ll
+clear
+cd ~/projects/rust-kotlin-fmt/
+hx README.md 
+amp
+home-manager switch
+hx README.md 
+clear
+cd ..
+clear
+ll
+cd notification_my_ass/
+ll
+alsamixer
+pulsemier
+audio
+clear
+which audito
+which alsa
+which pulse
+hx /etc/nixos/configuration.nix 
+pipewire 
+pipewire-pulse 
+pipewire mixer
+pamixer
+pactl
+pactl set-sink-volume @DEFAULT_SINK@ +5%
+hx /etc/nixos/configuration.nix 
+sudo hx /etc/nixos/configuration.nix 
+cat /etc/nixos/configuration.nix 
+sudo hx /etc/nixos/configuration.nix 
+sudo nixos-rebuild switch
+pactl
+pactl --help
+pavucontrol 
+nmtui
+clear
+nef
+neofetch 
+amp
+clear
+which neofetch 
+neofetch 
+cd projects/
+ll
+cd rust-kotlin-fmt/
+hx .
+clear
+ll
+hx ~/.config/home-manager/home.nix 
+clear
+hx /etc/nixos/configuration.nix 
+pavucontrol 
+nixos-rebuild switch
+reboot
+ll
+cd projects/rust-kotlin-fmt/
+which cargo
+cd ..
+ll
+cd medi-track/
+c d..
+cd ..
+cd tauri-frontend/
+clear
+which cargo
+hx .
+clear
+hx .envrc 
+clear
+ll
+ssh azureuser@108.143.88.113
+clear
+cd ..
+cd rust-kotlin-fmt/
+pi
+opencode
+clear
+amp
+ll
+cd ..
+clear
+ll
+cd tauri-frontend/
+cargo run
+ll
+hx README.md 
+pnpm tauri android dev
+hx README.md 
+pnpm tauri dev
+clear
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+cd ~/Downloads/
+ll
+cd movies/
+ll
+cd `Silicon Valley (2014) Season 1-6 S01-S06 (1080p Mixed x265 HEVC 10bit EAC3 5.1 Silence)/`
+ll
+cd `Season 2 (BluRay)/`
+ls
+cd ..
+ll
+cd Featurettes/
+ll
+cd `Season 2/`
+ll
+cd ..
+ll
+cd ..
+ll
+cd 'Silicon Valley S01 1080p BluRay x264-ROVERS [RiCK]/'
+ll
+mpv "Silicon Valley (2014) - S02E01 - Sand Hill Shuffle (1080p BluRay x265 Silence).mkv" 
+clear
+mpv Silicon.Valley.S01E01.1080p.BluRay.x264-ROVERS.mkv 
+ll
+cd .
+cd ..
+ll
+cd 'Silicon Valley Season 2 S02 1080p BluRay x264-ROVERS [RiCK]/'
+ll
+mpv Silicon.Valley.S02E01.1080p.BluRay.x264-ROVERS.mkv 
+cd Subtitles/
+ll
+cd ..
+ll
+cd ..
+ll
+cd `Silicon Valley (2014) Season 1-6 S01-S06 (1080p Mixed x265 HEVC 10bit EAC3 5.1 Silence)/`
+ll
+cd `Season 1 (BluRay)/`
+ll
+mpv "Silicon Valley (2014) - S01E01 - Minimum Viable Product (1080p BluRay x265 Silence).mkv" 
+cd ..
+ll
+clear
+ll
+cd `Season 2 (BluRay)/`
+ll
+mpv "Silicon Valley (2014) - S02E01 - Sand Hill Shuffle (1080p BluRay x265 Silence).mkv" 
+mpv "Silicon Valley (2014) - S02E02 - Runaway Devaluation (1080p BluRay x265 Silence).mkv" 
+mpv "Silicon Valley (2014) - S02E03 - Bad Money (1080p BluRay x265 Silence).mkv" 
+mpv "Silicon Valley (2014) - S02E04 - The Lady (1080p BluRay x265 Silence).mkv" 
+clear
+cd ~
+clear
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+cd .config/
+ll
+clear
+ll
+ll helix/
+git status
+clear
+git remote add origin https://github.com/Nilo-x/dotfiles.git
+ll
+clear
+echo "# dotfiles" >> README.md<\n>git init<\n>git add README.md<\n>git commit -m "first commit"<\n>git branch -M main<\n>git remote add origin git@github.com:Nilo-x/dotfiles.git<\n>git push -u origin main
+ll
+touch README.md
+git init
+git add README.md
+git commit -m "initial commit"
+git branch -M main
+git remote add origin git@github.com:Nilo-x/dotfiles.git
+git push -u origin main
+git status
